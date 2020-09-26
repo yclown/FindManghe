@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\Manghe\obj\Debug\Manghe.Form1.resources
+C:\Users\admin\source\repos\Manghe\obj\Debug\Manghe.Properties.Resources.resources
+C:\Users\admin\source\repos\Manghe\obj\Debug\Manghe.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\Manghe\bin\Debug\Manghe.exe.config
+C:\Users\admin\source\repos\Manghe\bin\Debug\Manghe.exe
+C:\Users\admin\source\repos\Manghe\bin\Debug\Manghe.pdb
+C:\Users\admin\source\repos\Manghe\bin\Debug\BasicFormatsForCore.dll
+C:\Users\admin\source\repos\Manghe\bin\Debug\BCMakeCert.dll
+C:\Users\admin\source\repos\Manghe\bin\Debug\CertMaker.dll
+C:\Users\admin\source\repos\Manghe\bin\Debug\FiddlerCore4.dll
+C:\Users\admin\source\repos\Manghe\bin\Debug\FiddlerCore4.xml
+C:\Users\admin\source\repos\Manghe\obj\Debug\Manghe.csproj.CopyComplete
+C:\Users\admin\source\repos\Manghe\obj\Debug\Manghe.exe
+C:\Users\admin\source\repos\Manghe\obj\Debug\Manghe.pdb
